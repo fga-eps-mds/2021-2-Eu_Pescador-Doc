@@ -2,7 +2,7 @@
 Repositório voltado para documentação do projeto **Eu-Pescador**, desenvolvido pelos membros do **Time 4** das disciplinas **Metódos de Desenvolvimento de Software** (MDS) e **Engenharia do Produto de Software** (EPS).
 
 
-## Equipe
+## Time
 
 | Nome | Matrícula | GitHub |
 | -------- | -------- | -------- |
