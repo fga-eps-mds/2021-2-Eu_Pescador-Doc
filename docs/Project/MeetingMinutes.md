@@ -1,0 +1,74 @@
+# Plano de Gerenciamento de Comunicação
+
+|    Data    | Versão |                Descrição                |                     Autor                     |
+| :--------: | :----: | :-------------------------------------: | :-------------------------------------------: |
+| 21/02/2022 |  1.0   | Criação do Documento de Para visualização de Atas de Reunião| [Letícia Araújo](https://github.com/leticiaarj) |
+
+## Objetivo
+<p>O objetivo desse documento é documentar o que foi discutido nas reuniões para que resolução de possíveis dúvidas e, também, para atualizar os participantes que não puderam está presentes.</p>
+
+## Ata do dia 09/02/2022
+
+### Participantes
+* Letícia;
+* Hilmer;
+* Dâmaso;
+* Clara;
+* Oscar;
+* Lucas;
+* Samuel;
+* Luiza;
+* Fellipe Araújo,
+* Maurício,
+* Felipe Moura,
+* Arthur.
+### Discussões
+#### Apresentação Pró-Espécies:
+* Aplicativo de monitoramento pesqueiro. (Instituto Natureza do Tocantins)
+* Plano de Ações Nacionais
+* Contra Extinção.
+* Cerrado Tocantins.
+* Alcance alto no Brasil - Envolve muitas instituições.
+* Coleta de dados de 1998-2009.
+* Organização da coleta com os pesquisadores.
+#### Exemplos de Peixes:
+![](https://i.imgur.com/IEkeCz6.png)
+![](https://i.imgur.com/4hIw7Pa.png)
+#### Pontos de Melhoria
+* Aplicativo funcionar offline. **(Ponto Crítico)**
+    * Fator limitante: Internet.
+* Menu com sub-grupos.
+
+## Ata do dia 09/02/2022
+### Participantes
+* Letícia;
+* Hilmer;
+* Dâmaso;
+* Clara;
+* Oscar;
+* Lucas;
+* Samuel;
+* Luiza;
+* Fellipe Araújo,
+* Maurício,
+* Felipe Moura,
+* Arthur.
+### Discussões
+* Diferença de WIKI e Relatório:
+    * O que está na WIKI é uma base estática que serve para a criação de novos relatórios pelos usuários. 
+* Sequenciador semelhante ao do semestre passado, pois estamos levantando as melhorias - Cliente acha que devem ser melhoradas essas funcionalidades.
+* Já existe uma planilha com os dados dos animais. 
+* Problemas a serem melhorados:
+    * Página de Registro: Envio de fotos.
+    * Página de Registro de Peixes: Forma de adicionar o tamanho do Peixe.
+    * WIKI para de funcionar - Realizar testes para verificar.
+    * Filtro muito sobrecarregado.
+    * Registro dos peixes de forma off-line.
+* Funcionalidades Novas:
+    * Recuperar a senha do usuário.
+    * Criar Etapas de Categorização: WIKI e Registro.
+    * Abrir o mapa e aparecer os registros validados pelos pesquisadores. 
+    * Modo Off-line.
+
+ 
+
