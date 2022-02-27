@@ -23,5 +23,5 @@ Foi elaborada uma tabela de disponibilidade para determinar quais seriam os melh
  com o Cliente.
 
 Dessa forma, ficou definido que:
-- As reuniões do grupo de EPS/MDS acontecem todas as sextas-feiras às 19 horas;
-- As reuniões com o cliente acontecem todas as segundas-feiras às 21 horas.
+- As reuniões do grupo de EPS/MDS acontecem todas as quintas-feiras às 19 horas;
+- As reuniões com o cliente acontecem todas as quartas-feiras às 14 horas, devido à disponibilidade da equipe técnica do cliente Oscar.
