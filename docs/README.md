@@ -1,19 +1,122 @@
-# 2021.2 - Eu-Pescador
-Repositório voltado para documentação do projeto **Eu-Pescador**, desenvolvido pelos membros do **Time 4** das disciplinas **Metódos de Desenvolvimento de Software** (MDS) e **Engenharia do Produto de Software** (EPS).
-
+# Pró-Espécies Documentação
+A documentação do projeto Eu-Pescador foi desenvolvida pelos membros das disciplinas de MDS e EPS.
+## Contribuição
+Para contribuir, você dever acessar o  [Repositório Matriz](https://github.com/fga-eps-mds/2019.1-ADA). E verificar as politicas de[***commits***](Policies/CommitPolicies.md), [***issues***](Policies/IssuePolicies.md), [***branches***](Policies/BranchPolicies.md) e [***pull requests***](Policies/PullRequestPolicies.md).
 
 ## Time
-
-| Nome | Matrícula | GitHub |
-| -------- | -------- | -------- |
-| Letícia Karla Araújo | 15/0135939 | @leticiaarj |
-| Arthur Paiva Tavares | 18/0013637 | @arthurpaivat |
-| Dâmaso Júnio pereira Brasileo | 17/0031538 | @juniopereirab |
-| Fellipe dos Santos Araujo | 18/0063723 | @fellipe-araujo |
-| Maurício Machado Filho | 20/0041959 | @MauricioMachadoFF 
-| Lucas macedo Barboza | 19/0091720 | @luckx98 |
-| Clara Marcelino de Sousa | 20/0036351 | @clara-ribeiro |
-| Samuel Furtado Avila | 19/0037806 | @samuelfavila |
-| Luíza Esteves dos Santos | 20/0023411 | @luiza-esteves |
-| Felipe Candido de Moura | 20/0030469 | @felipecdmoura |
-| Caio Vitor de Oliveira | 20/0057227 | @caiozim112 |
+<div class="container">
+    <div class="row">
+        <div class="col-sm container-img">
+            <img src="https://github.com/leticiaarj.png" alt="Leticia Araujo" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                    Letícia Araújo (EPS)
+                </div>
+            </div>
+        </div>
+        <div class="col-sm container-img">
+            <img src="https://github.com/juniopereirab.png" alt="Damaso Pereira" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                    Dâmaso Pereira (EPS)
+                </div>
+            </div>
+        </div>
+        <div class="col-sm container-img">
+            <img src="https://github.com/arthurpaivat.png" alt="Arthur Paiva" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                    Arthur Paiva (EPS)
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm container-img">
+            <img src="https://github.com/fellipe-araujo.png" alt="Fellipe Araujo" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                    Fellipe Araujo (EPS)
+                </div>
+            </div>
+        </div>
+        <div class="col-sm container-img">
+            <img src="https://github.com/luckx98.png" alt="Lucas Macedo" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                    Lucas Macedo (MDS)
+                </div>
+            </div>
+        </div>
+        <div class="col-sm container-img">
+            <img src="https://github.com/MauricioMachadoFF.png" alt="Mauricio Machado" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                    Maurício Machado (MDS)
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm container-img">
+            <img src="https://github.com/Neitan2001.png" alt="Natan Tavares" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                    Natan Tavares (MDS)
+                </div>
+            </div>
+        </div>
+        <div class="col-sm container-img">
+            <img src="https://github.com/PhRezende-eng.png" alt="Paulo Henrique Rezende" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                    Paulo Henrique Rezende (MDS)
+                </div>
+            </div>
+        </div>
+        <div class="col-sm container-img">
+            <img src="https://github.com/clara-ribeiro.png" alt="Clara Marcelino" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                   Clara Marcelino (MDS)
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm container-img">
+            <img src="https://github.com/luiza-esteves.png" alt="Luiza Esteves" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                   Luíza Esteves (MDS)
+                </div>
+            </div>
+        </div>
+        <div class="col-sm container-img">
+            <img src="https://github.com/felipecdmoura.png" alt="Felipe Candido" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                   Felipe Candido (MDS)
+                </div>
+            </div>
+        </div>
+        <div class="col-sm container-img">
+            <img src="https://github.com/samuelfavila.png" alt="Samuel Furtado" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                   Samuel Furtado (MDS)
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm container-img">
+            <img src="https://github.com/caiozim112.png" alt="Caio Vitor de Oliveira" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                   Caio Vitor de Oliveira (MDS)
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
