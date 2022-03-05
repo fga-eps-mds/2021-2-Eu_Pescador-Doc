@@ -1,9 +1,10 @@
 # Pró-Espécies Documentação
 A documentação do projeto Eu-Pescador foi desenvolvida pelos membros das disciplinas de MDS e EPS.
 ## Contribuição
-Para contribuir, você dever acessar o  [Repositório Matriz](https://github.com/fga-eps-mds/2019.1-ADA). E verificar as politicas de[***commits***](Policies/CommitPolicies.md), [***issues***](Policies/IssuePolicies.md), [***branches***](Policies/BranchPolicies.md) e [***pull requests***](Policies/PullRequestPolicies.md).
+Para contribuir, você dever acessar o  [Repositório Matriz](https://github.com/fga-eps-mds/2019.1-ADA). E verificar as politicas de [***commits***](Policies/CommitPolicies.md), [***issues***](Policies/IssuePolicies.md), [***branches***](Policies/BranchPolicies.md) e [***pull requests***](Policies/PullRequestPolicies.md).
 
 ## Time
+
 <div class="container">
     <div class="row">
         <div class="col-sm container-img">
