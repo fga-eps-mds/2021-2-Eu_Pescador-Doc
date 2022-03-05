@@ -3,6 +3,7 @@
     * [Comunicação da Equipe](Project/CommunicationPlan.md)
     * [Conhecimento da Equipe](Project/KnowledgeManagement.md)
     * [Gestão de Tempo](Project/Timeline.md)
+    * [Estrutura Analítica do Projeto](Project/EAP.md)
 
 * Reuniões
     * [09-02-2022](Project/Atas/09-02-2022.md)
