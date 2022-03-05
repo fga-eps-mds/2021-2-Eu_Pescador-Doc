@@ -3,6 +3,7 @@
     * [Comunicação da Equipe](Project/CommunicationPlan.md)
     * [Conhecimento da Equipe](Project/KnowledgeManagement.md)
     * [Gestão de Tempo](Project/Timeline.md)
+    * [Gestão de Custo](Project/CostPlan.md)
     * [Estrutura Analítica do Projeto](Project/EAP.md)
 
 * Reuniões
