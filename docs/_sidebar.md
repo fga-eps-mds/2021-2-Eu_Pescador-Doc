@@ -6,6 +6,9 @@
     * [Gestão de Custo](Project/CostPlan.md)
     * [Estrutura Analítica do Projeto](Project/EAP.md)
 
+* Produto
+    * [Documento de Arquitetura](Product/ArchitectureDocument.md)
+
 * Reuniões
     * [09-02-2022](Project/Atas/09-02-2022.md)
     * [21-02-2022](Project/Atas/21-02-2022.md)
