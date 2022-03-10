@@ -5,6 +5,8 @@
     * [Gestão de Tempo](Project/Timeline.md)
     * [Gestão de Custo](Project/CostPlan.md)
     * [Estrutura Analítica do Projeto](Project/EAP.md)
+    * [Gestçao de Riscos](Project/RiskPlan.md)
+    * [Protótipo](Project/prototype.md)
 
 * Produto
     * [Documento de Arquitetura](Product/ArchitectureDocument.md)
