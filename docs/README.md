@@ -109,8 +109,6 @@ Para contribuir, você dever acessar o  [Repositório Matriz](https://github.com
                 </div>
             </div>
         </div>
-    </div>
-    <div class="row">
         <div class="col-sm container-img">
             <img src="https://github.com/caiozim112.png" alt="Caio Vitor de Oliveira" class="img-thumbnail image">
             <div class="middle">
