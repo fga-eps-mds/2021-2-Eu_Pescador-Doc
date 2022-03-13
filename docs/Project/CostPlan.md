@@ -52,6 +52,6 @@ Com isso, têm-se:
 
 ## Planilha de Custos
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTT-Yzzdv8vfTUU2FpXkc3kolSifxtFO5yfisyoHCqK4jBo9D-tFcIKhCHiDzKrUPsI5MVroH2SuJ7K/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="750" height="450" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTT-Yzzdv8vfTUU2FpXkc3kolSifxtFO5yfisyoHCqK4jBo9D-tFcIKhCHiDzKrUPsI5MVroH2SuJ7K/pubhtml?widget=true&amp;headers=false"></iframe>
 
 Acesse a planilha nesse [link](https://docs.google.com/spreadsheets/d/1iqZn7ZvSsIQMQHjftlmypp0A67Jklt-9vlWK7pEAr-M/edit?usp=sharing)
