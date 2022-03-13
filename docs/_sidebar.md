@@ -1,11 +1,11 @@
 * [Home](/)
 * Gerenciamento de Projeto
-    * [Comunicação da Equipe](Project/CommunicationPlan.md)
-    * [Conhecimento da Equipe](Project/KnowledgeManagement.md)
+    * [Gestão de Comunicação](Project/CommunicationPlan.md)
+    * [Gestão de Conhecimento](Project/KnowledgeManagement.md)
     * [Gestão de Tempo](Project/Timeline.md)
     * [Gestão de Custo](Project/CostPlan.md)
-    * [Estrutura Analítica do Projeto](Project/EAP.md)
     * [Gestão de Riscos](Project/RiskPlan.md)
+    * [Estrutura Analítica do Projeto](Project/EAP.md)
     * [Protótipo](Project/prototype.md)
 
 * Produto
@@ -20,3 +20,4 @@
 
 * Sprints
     * [Sprint 1](Project/Sprints/Sprint1.md)
+    * [Sprint 2](Project/Sprints/Sprint2.md)

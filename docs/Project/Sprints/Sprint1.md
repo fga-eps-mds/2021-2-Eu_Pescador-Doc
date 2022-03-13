@@ -1,4 +1,4 @@
-# Sprint 1 (Parte 1)
+# Sprint 1
 
 |    Data    | Versão |                Descrição                |                     Autor                     |
 | :--------: | :----: | :-------------------------------------: | :-------------------------------------------: |
@@ -6,9 +6,8 @@
 
 ## Descrição
 
-Essa sprint foi dividida inicialmente em 2 etapas, devido ao feriado e também à chegada da Release 1.
-Sendo assim ela tem a duração de:
-- 26/02/2022 até 03/03/2022
+Essa sprint foi planejada para ser um pouco maior do que o normal, tendo uma duração de 9 dias.
+- 26/02/2022 até 07/03/2022
 
 ## Tarefas e Duplas
 
