@@ -6,7 +6,7 @@
     * [Gestão de Custo](Project/CostPlan.md)
     * [Gestão de Riscos](Project/RiskPlan.md)
     * [Estrutura Analítica do Projeto](Project/EAP.md)
-    * [Protótipo](Project/prototype.md)
+    * [Protótipo](Project/Prototype.md)
 
 * Produto
     * [Documento de Arquitetura](Product/ArchitectureDocument.md)
