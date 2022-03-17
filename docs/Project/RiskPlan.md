@@ -3,110 +3,69 @@
 |    Data    | Versão |                Descrição                |                     Autor                     |
 | :--------: | :----: | :-------------------------------------: | :-------------------------------------------: |
 | 03/03/2022 |  1.0   | Criação do Plano de Risco | [Letícia Araújo](https://github.com/leticiaarj) |
+| 16/03/2022 |  1.0   | Melhoria no Planod e Risco| [Letícia Araújo](https://github.com/leticiaarj) |
 
 ## Objetivo
-A Gestão de Riscos é voltada para o futuro, uma vez que um gerenciamento eficaz requer a identificação antecipada de ameaças e oportunidades. O principal benefício do plano é o de garantir que o grau, o tipo e a visibilidade do gerenciamento de riscos sejam proporcionais tanto aos riscos como à importância para a organização e para as demais partes interessadas.
 
-Gerenciar os riscos do projeto requer um Plano de gerenciamento dos riscos descrevendo como os processos de riscos serão estruturados e executados iniciando pela identificação dos riscos, suas análises qualitativa e quantitativa, seu plano de respostas e concluindo com a forma que os riscos serão controlados e monitorados. O Plano de gerenciamento dos riscos é desenvolvido e aprovado durante a fase de planejamento do projeto e é um plano auxiliar do Plano de gerenciamento do projeto. Tem como objetivo aumentar a probabilidade e o impacto dos eventos positivos, reduzir a probabilidade e o impacto dos eventos negativos no projeto e orientar a equipe do projeto sobre como os processos de riscos serão executados.
-
-## Processo de Gerenciamento dos Riscos
-* Identificar os riscos: Determinar quais riscos podem afetar o projeto e documentar suas características.
-* Realizar a análise qualitativa dos riscos: Avaliar a exposição ao risco para priorizar os riscos que serão objetos de análise ou ação adicional.
-* Realizar a análise quantitativa dos riscos: Efetuar a análise numérica do efeito dos riscos identificados nos objetivos gerais do projeto.
-* Planejar as respostas aos riscos: Desenvolver opções e ações para aumentar as oportunidades e reduzir as ameaças aos objetivos do projeto.
-* Controlar os riscos: Monitorar e controlar os riscos durante o ciclo de vida do projeto.
-
-## Categorias dos Riscos
-* Técnicos: Requisitos, Tecnologia, Confiabilidade, Usabilidade, Desempenho e Qualidade.
-* Externos: Políticas, Infraestrutura e Condições climáticas.
-* Organizacionais: Dependências do projeto.
-* Gerencial: Planejamento e Controle.
-
-## Definições de Probabilidade, Impacto dos Riscos e Matriz de Probabilidade e Impacto
-
-### Probabilidade
-Um risco é um evento que “pode” ocorrer. A probabilidade de ocorrer pode variar de um pouco mais de 0% a um pouco menos de 100%. Observe que risco trata de incerteza, por isso não podemos identificá-lo como 100% de probabilidade de ocorrência, porque então seria uma certeza, não um risco. Assim como não pode ser exatamente 0%, ou não seria um risco.
+<p align="justify"> &emsp;&emsp;O plano de gerenciamento de riscos tem como objetivo descrever quais são os riscos do projeto, como eles serão monitorados e controlados ao longo das <i>sprints</i>, visando entender seus impactos e procurando formas de mitigar esses possíveis riscos.</p>
 
 
-| Probabilidade - P	 | Intervalo | Peso |
-| -------- | -------- | -------- |
-| Muito Baixa | 0 <= P <=20% | 1 |
-| Baixa | 20% < P <= 40%| 2 |
-| Moderada | 40% < P <= 60% | 3 |
-| Alta | 60% < P <= 80% | 4 |
-| Muita Alta | 80% < P <= 100% | 5 |
+## Análise Quantitativa de Riscos
 
-### Impacto
-O tamanho do impacto varia de acordo com a questão sendo avaliada.
+  A análise quantitativa de riscos consiste na priorização e categorização dos riscos de acordo com 2 métricas:
+  * **Probabilidade:** chances de um risco ocorrer;
+  * **Impacto:** o quanto o risco impacta no projeto;
 
-| Impacto - I | Descrição | Peso |
-| -------- | -------- | -------- |
-| Muito Baixa | Quase que imperceptível ao projeto.| 1 |
-| Baixa | Pouca influência no desenvolvimento do projeto. | 2 |
-| Moderada | Notável ao projeto, mas sem grandes consequências. | 3 |
-| Alta | Dificulta o desenvolvimento do projeto. | 4 |
-| Muita Alta | Impossibilita o prosseguimento do projeto. | 5 |
+### Tabela 4.1 - Probabilidade
 
-### Matriz de Probabilidade e Impacto
+| **Probabilidade** | **Peso** |
+| :---------------: | :------: |
+| Nenhuma | 0 |
+| Rara | 1 |
+| Improvável | 2 |
+| Pouco Provável | 3 |
+| Provável | 4 |
+| Muito Provável | 5 |
 
-| P\I | Muito Baixo | Baixo | Moderado | Alto | Muito Alto |
-| -------- | -------- | -------- | -------- | -------- |  -------- |
-| Muito Baixo | 1 | 2 | 3 | 4 | 5 |
-| Baixo | 2 | 4 | 6 | 8 | 10 |
-| Moderado | 3 | 6 | 9 | 12 | 15 |
-| Alto | 4 | 8 | 12 | 16 | 20 |
-| Muito Alto | 5 | 10 | 15 | 20 | 25 |
+### Tabela 4.2 - Impacto
 
-### Prioridade 
+| **Impacto** | **Peso** |
+| :---------------: | :------: |
+| Nenhum | 0 |
+| Baixíssimo impacto | 1 |
+| Baixo impacto | 2 |
+| Médio impacto | 3 |
+| Alto impacto | 4 |
+| Altíssimo impacto | 5 |
 
-Com a matriz Probabilidade X Impacto é possível determinar o nível de prioridade de cada risco.
+O grau de risco é definido pela multiplicação da probabilidade pelo impacto. 
 
-| Prioridade | Intervalo | 
-| -------- | -------- |
-| Baixa | 1-5 |
-| Média | 6-15 |
-| Alta | 16-25 |
+Sendo que:
 
-## Riscos do Trabalho
+* Risco >= 15: Elevado.
 
-### Riscos Negativos
+* 5 < Risco < 15: Médio.
 
-| Causa	| Risco	| Descrição	| Impacto |
-| -------- | -------- | -------- | -------- |
-| Inexperiência da equipe |	R01	| Dificuldades com a tecnologia de desenvolvimento | Produtividade baixa e atraso nas entregas |
-| Falta de Acessibilidade | R02 | Acessibilidade à internet em meio a pandemia | Atraso nas entregas ou sobrecarga de outro membro da equipe |
-|Escopo mal definido | R03 | Mudança no escopo | Replanejamento das atividades |
-| Impossibilidade física ou emocional de realizar atividade | R04 | Contágio do SARS-CoV-2 de membro da equipe ou de familiar de membro da equipe  | Mudança no Planejamento |
+* Risco <= 5: Baixo.
 
-### Riscos Positivos
-| Causa	| Risco	| Descrição	| Impacto |
-| -------- | -------- | -------- | -------- |
-|Motivação com o projeto | RP01 | Interesse da equipe em evoluir o projeto | Continuidade do projeto |
-| Alta produtividade da equipe | RP02 | Entregas antes do previsto |  Tempo para revisão de artefatos e melhorias de código|
-| Boa adaptação dos Usuários ao app de receitas | RP03 | Aumento da utilização | Oportunidade de melhorias de acordo  com o feedback dos usuário |
 
-## Análise e respostas aos riscos
+## Identificação dos Riscos
+Os riscos identificados, até agora, foram levantados da primeira sprint. Como é possível achar riscos em todo o projeto criamos uma tabela dinâmica que pode ser atualizada a qualquer momento e está disponível [aqui](https://docs.google.com/spreadsheets/d/1hGmDwJuiOTVUD7ZUBIBpuKkIF0USZcFT/edit?usp=sharing&ouid=113550855881314741637&rtpof=true&sd=true).
 
-### Riscos Negativos
+Realizamos a pontuação dos riscos toda sprint, para que possamos planejar e gerenciar melhor a sprint.
 
-| Risco | Probabilidade | Impacto |	Prioridade | Ação |
-| -------- | -------- | -------- | -------- |-------- |
-| R01 | Moderada | Moderado | Alta | Prevenir - Realizar treinamentos |
-| R02 | Baixa | Alto | Alta | Mitigar - Redefinir escopo e atividades entre os membros |
-| R03 | Moderada | Alto | Média | Mitigar - Redefinir escopo |
-| R04 | Alta | Alto | Alta | Mitigar - Refazer planejamento |
+![](https://i.imgur.com/LL9sm2p.png)
 
-### Riscos Positivos
-| Risco | Probabilidade | Impacto |	Prioridade | Ação |
-| -------- | -------- | -------- | -------- |-------- |
-| RP01 | Moderada | Moderado | Baixa | Continuar com motivação |
-| RP02 | Baixa | Alto | Média| Manter as datas de entrega |
-| RP03 | Baixa | Alto | baixa | Verificar orportunidades de melhorias e realizá-las |
+
+## Burndown de Riscos
+
+### Sprint 1
+![](https://i.imgur.com/FLHySWr.png)
+
+### Sprint 2
+![](https://i.imgur.com/ugWaw0V.png)
 
 ## Referências
 
-[1] MONTES, Eduardo. Introdução ao Gerenciamento de Projetos, 1ª Ed. São Paulo; 2017.
-
-[2] Dias, F. R. T. Gerenciamento dos Riscos em Projetos. Rio de Janeiro: Elsevier, 2014
-
-[3] CAMARGO, Renata Freitas. Aplique o Plano de Gerenciamento de Riscos no seu negócio. 2018. Disponível em: https://www.glicfas.com.br/plano-de-gerenciamento-de-riscos/#:~:text=apetite%20ao%20risco%3F-,Matriz%20de%20impacto%20e%20probabilidade,evento%20que%20%E2%80%9Cpode%E2%80%9D%20ocorrer.. Acesso em: 07 set. 2020.
+* FILHO, Ateldy; GOMES, Vitor; SOUZA, João; DANTAS, Bruno; Ada - Plano de Gerenciamento de Riscos. Disponível em: <https://fga-eps-mds.github.io/2019.1-ADA/#/docs/project/risk_management_plan>. Acesso em: 13 ago. 2021.
+* Aula13-1 - Gerenciamento dos Riscos: Processo: Planejar o gerenciamento dos riscos. Disponível em: <https://www.youtube.com/watch?v=HDMS7ftQJb0&feature=youtu.be>. Acesso em: 13 ago. 2021.
