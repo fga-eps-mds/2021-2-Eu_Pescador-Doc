@@ -60,22 +60,6 @@ Para contribuir, você dever acessar o  [Repositório Matriz](https://github.com
     </div>
     <div class="row">
         <div class="col-sm container-img">
-            <img src="https://github.com/Neitan2001.png" alt="Natan Tavares" class="img-thumbnail image">
-            <div class="middle">
-                <div class="text">
-                    Natan Tavares (MDS)
-                </div>
-            </div>
-        </div>
-        <div class="col-sm container-img">
-            <img src="https://github.com/PhRezende-eng.png" alt="Paulo Henrique Rezende" class="img-thumbnail image">
-            <div class="middle">
-                <div class="text">
-                    Paulo Henrique Rezende (MDS)
-                </div>
-            </div>
-        </div>
-        <div class="col-sm container-img">
             <img src="https://github.com/clara-ribeiro.png" alt="Clara Marcelino" class="img-thumbnail image">
             <div class="middle">
                 <div class="text">
@@ -83,8 +67,6 @@ Para contribuir, você dever acessar o  [Repositório Matriz](https://github.com
                 </div>
             </div>
         </div>
-    </div>
-    <div class="row">
         <div class="col-sm container-img">
             <img src="https://github.com/luiza-esteves.png" alt="Luiza Esteves" class="img-thumbnail image">
             <div class="middle">
@@ -101,6 +83,8 @@ Para contribuir, você dever acessar o  [Repositório Matriz](https://github.com
                 </div>
             </div>
         </div>
+    </div>
+    <div class="row">
         <div class="col-sm container-img">
             <img src="https://github.com/samuelfavila.png" alt="Samuel Furtado" class="img-thumbnail image">
             <div class="middle">
