@@ -11,6 +11,7 @@
 * Produto
     * [Documento de Arquitetura](Product/ArchitectureDocument.md)
     * [Visão do Produto](Product/ProductVision.md)
+    * [Qualidade do Produto](Product/ProductQuality.md)
 
 * Reuniões
     * [09-02-2022](Project/Atas/09-02-2022.md)
