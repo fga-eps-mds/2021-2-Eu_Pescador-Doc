@@ -48,7 +48,7 @@ Para a coleta de métricas de qualidade e geração dos gráficos foi utilizado 
 
 ![Qualidade e Testes](../Assets/Images/ProductQuality/QualityAndTests.png)
 
-![Qualidade Total](../Assets/Images/ProductQuality/QualityAndTotal.png)
+![Qualidade Total](../Assets/Images/ProductQuality/QualityTotal.png)
 
 ![Heatmap](../Assets/Images/ProductQuality/CorrelationHeatmap.png)
 
