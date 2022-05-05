@@ -3,7 +3,7 @@
 |    Data    | Versão |                Descrição                |                     Autor                     |
 | :--------: | :----: | :-------------------------------------: | :-------------------------------------------: |
 | 03/03/2022 |  1.0   | Criação do Plano de Risco | [Letícia Araújo](https://github.com/leticiaarj) |
-| 16/03/2022 |  1.0   | Melhoria no Planod e Risco| [Letícia Araújo](https://github.com/leticiaarj) |
+| 16/03/2022 |  1.0   | Melhoria no Plano de Risco| [Letícia Araújo](https://github.com/leticiaarj) |
 
 ## Objetivo
 
@@ -64,6 +64,23 @@ Realizamos a pontuação dos riscos toda sprint, para que possamos planejar e ge
 
 ### Sprint 2
 ![](https://i.imgur.com/ugWaw0V.png)
+
+### Sprint 3
+![](https://i.imgur.com/M41YXIc.png)
+
+### Sprint 4
+![](https://i.imgur.com/CVyAAcV.png)
+
+### Sprint 5 
+![](https://i.imgur.com/BXeh6Fg.png)
+
+### Sprint 6
+![](https://i.imgur.com/qWM9Hki.png)
+
+### Sprint 7
+![](https://i.imgur.com/y6swSmv.png)
+
+
 
 ## Referências
 
