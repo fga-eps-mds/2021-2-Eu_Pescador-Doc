@@ -75,10 +75,11 @@ Realizamos a pontuação dos riscos toda sprint, para que possamos planejar e ge
 ![](https://i.imgur.com/BXeh6Fg.png)
 
 ### Sprint 6
-![](https://i.imgur.com/qWM9Hki.png)
+![](https://i.imgur.com/4R5rQoe.png)
 
 ### Sprint 7
-![](https://i.imgur.com/y6swSmv.png)
+![](https://i.imgur.com/JqbUkn6.png)
+
 
 
 
